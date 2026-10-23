@@ -22,7 +22,7 @@
 * **Infraestructura:** Containerizado con **Docker** y desplegado en **Render**.
 * **Puntos Clave:** Autenticación/Autorización, migraciones de esquema automatizadas, arquitectura limpia y documentación interactiva con Swagger UI.
 
-#### ✍️ [AniMatext - Text & Story Editor](https://github.com/tu-usuario/nombre-del-repo)
+#### ✍️ [AniMatext - Text & Story Editor](https://github.com/LostMediaDev/LostMediaDev)
 > Editor interactivo web enfocado en la creación narrativa y guionismo dinámico.
 * **Tech Stack:** JavaScript, CSS3, JSON Schema.
 
